@@ -13,8 +13,6 @@
       <mapping pattern="homepageForm" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="styl" type="PLAIN_TEXT" />
-      <removed_mapping ext="styl" type="Stylus" />
       <mapping pattern="Book" type="YAML" />
       <mapping pattern="ProdConfig" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
