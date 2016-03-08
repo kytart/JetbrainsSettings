@@ -12,15 +12,12 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -34,15 +31,12 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -56,15 +50,12 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -77,15 +68,12 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -97,15 +85,12 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -115,16 +100,12 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="false" />
-      <option name="PHP Comment" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -135,16 +116,12 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="false" />
-      <option name="PHP Comment" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -155,30 +132,23 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="PHP" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="qof" value="$this-&gt;filter[$KEY$] = function (QueryBuilder $qb) $IMPORT$ {&#10;&#9;$SELECTION$$END$&#10;};" description="QueryObject filter" toReformat="true" toShortenFQNames="true">
     <variable name="KEY" expression="" defaultValue="__FUNCTION__" alwaysStopAt="true" />
     <variable name="IMPORT" expression="" defaultValue="use ()" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
+    <context />
   </template>
   <template name="qos" value="$this-&gt;select[$KEY$] = function (QueryBuilder $qb) $IMPORT$ {&#10;&#9;$SELECTION$$END$&#10;};" description="QueryObject select" toReformat="true" toShortenFQNames="true">
     <variable name="KEY" expression="" defaultValue="__FUNCTION__" alwaysStopAt="true" />
     <variable name="IMPORT" expression="" defaultValue="use ()" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
