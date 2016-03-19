@@ -2,6 +2,9 @@
   <component name="CPPToolchains">
     <option name="detectedVersion" value="4" />
   </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
   <component name="DBNavigator.Application.Settings">
     <enable-debug-mode value="false" />
     <enable-developer-mode value="false" />
