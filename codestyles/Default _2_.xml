@@ -1,4 +1,5 @@
 <code_scheme name="Default (2)">
+  <option name="RIGHT_MARGIN" value="150" />
   <Objective-C>
     <option name="INDENT_CLASS_MEMBERS" value="8" />
     <option name="INDENT_VISIBILITY_KEYWORDS" value="4" />
