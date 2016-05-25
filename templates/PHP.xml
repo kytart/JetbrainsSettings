@@ -1,8 +1,6 @@
 <templateSet group="PHP">
   <template name="mock" value="$stub = $this-&gt;getMockBuilder($CLASS$)&#10;             -&gt;disableOriginalConstructor()&#10;             -&gt;getMock();" description="Create basic class mock" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>

@@ -1,8 +1,18 @@
 <application>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="4" />
+  </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
   <component name="DBNavigator.Application.Settings">
     <enable-debug-mode value="false" />
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="5.1.1" last-modified="1449653596000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" version="5.1.1" last-modified="1449653596000" />
   </component>
   <component name="PsiViewer.Settings">
     <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
