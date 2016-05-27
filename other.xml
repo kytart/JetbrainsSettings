@@ -10,9 +10,14 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.9.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.1.1" last-modified="1449653596000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" version="5.1.1" last-modified="1449653596000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.9.0" last-modified="1458159784000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" version="(Does not exist)" last-modified="1464342438666" />
   </component>
   <component name="PsiViewer.Settings">
     <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
