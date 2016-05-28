@@ -23,6 +23,7 @@
       <mapping pattern="homepageForm" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping pattern="extended_bootstrap_3_horizontal_layout" type="Twig" />
       <mapping pattern="Posts" type="Twig" />
       <removed_mapping ext="svg" type="XML" />
       <mapping pattern="Book" type="YAML" />
