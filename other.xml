@@ -27,7 +27,10 @@
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.9.0" last-modified="1458159784000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/5.9.0/bin/node" />
     <local-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" />
   </component>
