@@ -59,4 +59,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="rptshape" value="React.PropTypes.shape({$END$})" description="Inserts prop type shape" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptshaper" value="React.PropTypes.shape({$END$}).isRequired" description="Inserts required prop type shape" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
