@@ -11,7 +11,7 @@
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
+  <component name="DaemonCodeAnalyzerSettings" profile="LidskaSila">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
