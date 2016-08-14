@@ -21,15 +21,15 @@
             <id />
           </State>
           <State>
-            <id>PHP</id>
+            <id>Assignment issuesJavaScript</id>
           </State>
           <State>
-            <id>UndefinedPHP</id>
+            <id>JavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpUndefinedFieldInspection</id>
+            <id>AssignmentResultUsedJS</id>
           </State>
         </selected-state>
       </profile-state>
