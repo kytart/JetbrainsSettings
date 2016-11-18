@@ -3,7 +3,6 @@
     <option name="customScope" value="App Code" />
     <option name="defaultScopeName" value="App Code" />
     <option name="SEARCH_SCOPE" value="App Code" />
-    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
