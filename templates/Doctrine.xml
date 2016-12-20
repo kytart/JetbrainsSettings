@@ -1,0 +1,48 @@
+<templateSet group="Doctrine">
+  <template name="col" value="/**&#10; * @ORM\Column(type=&quot;$COL_TYPE$&quot;)&#10; * @var $TYPE$&#10; */&#10; protected $$$NAME$;&#10; " description="Column" toReformat="true" toShortenFQNames="true">
+    <variable name="COL_TYPE" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="oto" value="/**&#10; * @ORM\OneToOne(targetEntity=&quot;$ENTITY$&quot;)&#10; * @var $ENTITY$&#10; */&#10;private $$$NAME$;&#10;" description="OneToOne Association" toReformat="true" toShortenFQNames="true">
+    <variable name="ENTITY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="otm" value="/**&#10; * @ORM\OneToMany(targetEntity=&quot;$ENTITY$&quot;, mappedBy=&quot;$MAPPED_BY$&quot;, cascade={&quot;persist&quot;, &quot;remove&quot;, &quot;merge&quot;})&#10; * @var $ENTITY$&#10; */&#10;private $$$NAME$;&#10;" description="OneToMany Association" toReformat="true" toShortenFQNames="true">
+    <variable name="ENTITY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MAPPED_BY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="orm" value="use Doctrine\ORM\Mapping as ORM;" description="import Doctrine to ORM alias" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="entity" value="/**&#10; * @ORM\Table(name=&quot;$TABLE$&quot;)&#10; * @ORM\Entity&#10; */" description="Entity Annotation" toReformat="true" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="colid" value="/**&#10; * @ORM\Column(type=&quot;integer&quot;)&#10; * @ORM\Id&#10; * @ORM\GeneratedValue(strategy=&quot;IDENTITY&quot;)&#10; * @var integer&#10; */&#10;private $id;" description="ID column" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="mto" value="/**&#10; * @ORM\ManyToOne(targetEntity=&quot;$ENTITY$&quot;, cascade={&quot;persist&quot;})&#10; * @var $ENTITY$&#10; */&#10;private $$$NAME$;&#10;" description="ManyToOne Association" toReformat="true" toShortenFQNames="true">
+    <variable name="ENTITY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
