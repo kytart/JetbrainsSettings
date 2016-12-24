@@ -27,7 +27,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="entity" value="/**&#10; * @ORM\Table(name=&quot;$TABLE$&quot;)&#10; * @ORM\Entity&#10; */" description="Entity Annotation" toReformat="true" toShortenFQNames="true">
+  <template name="entity" value="/**&#10; * @ORM\Entity&#10; * @ORM\Table(name=&quot;$TABLE$&quot;)&#10; */" description="Entity Annotation" toReformat="true" toShortenFQNames="true">
     <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Statement" value="true" />
