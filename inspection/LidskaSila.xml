@@ -1,4 +1,4 @@
-<inspections profile_name="LidskaSila" version="1.0">
+<profile version="1.0">
   <option name="myName" value="LidskaSila" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -37,8 +37,9 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="1">
+        <list size="2">
           <item index="0" class="java.lang.String" itemvalue="target" />
+          <item index="1" class="java.lang.String" itemvalue="for" />
         </list>
       </value>
     </option>
@@ -112,4 +113,4 @@
   <inspection_tool class="YamlQuotedEscapedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YamlServiceArgumentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="YamlUnquotedColon" enabled="false" level="WARNING" enabled_by_default="false" />
-</inspections>
+</profile>
