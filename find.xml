@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="App Code" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,7 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.twig</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
