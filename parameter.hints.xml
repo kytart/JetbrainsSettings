@@ -3,6 +3,12 @@
     <blacklists>
       <blacklist language="PHP">
         <added pattern="\sprintf(format,args,_)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.andWhere(where)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.where(predicates)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.groupBy(groupBy)" />
+        <added pattern="\Doctrine\ORM\QueryBuilder.select(select)" />
+        <added pattern="\Doctrine\ORM\Query\Expr.neq(x,y)" />
+        <added pattern="\Doctrine\ORM\Query\Expr.literal(literal)" />
       </blacklist>
     </blacklists>
   </component>
