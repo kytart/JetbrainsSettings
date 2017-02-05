@@ -9,6 +9,7 @@
         <added pattern="\Doctrine\ORM\QueryBuilder.select(select)" />
         <added pattern="\Doctrine\ORM\Query\Expr.neq(x,y)" />
         <added pattern="\Doctrine\ORM\Query\Expr.literal(literal)" />
+        <added pattern="\Symfony\Component\HttpFoundation\ParameterBag.get(path,default,deep)" />
       </blacklist>
     </blacklists>
   </component>
