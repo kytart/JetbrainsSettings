@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="App Code" />
-    <option name="defaultScopeName" value="App Code" />
-    <option name="SEARCH_SCOPE" value="App Code" />
+    <option name="customScope" value="Directory '.../bedabox/client - [bedabox.loc]'" />
+    <option name="defaultScopeName" value="Directory '.../bedabox/client - [bedabox.loc]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../bedabox/client - [bedabox.loc]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
