@@ -2,7 +2,6 @@
   <option name="myName" value="LidskaSila" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AssignmentToFunctionParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BlockStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CaseSensitivityServiceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -43,6 +42,7 @@
   <inspection_tool class="IfStatementWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InheritDocInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSMethodCanBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedLibraryURL" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z]*" />
     <option name="m_minLength" value="1" />
