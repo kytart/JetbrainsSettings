@@ -1,7 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="PHP">
+      <blacklist language="SQL">
         <added pattern="\sprintf(format,args,_)" />
         <added pattern="\Doctrine\ORM\QueryBuilder.andWhere(where)" />
         <added pattern="\Doctrine\ORM\QueryBuilder.where(predicates)" />
@@ -11,6 +11,7 @@
         <added pattern="\Doctrine\ORM\Query\Expr.literal(literal)" />
         <added pattern="\Symfony\Component\HttpFoundation\ParameterBag.get(path,default,deep)" />
         <added pattern="\Symfony\Component\EventDispatcher\EventDispatcher.dispatch(eventName,event)" />
+        <added pattern="\Doctrine\DBAL\Migrations\AbstractMigration.addSql(sql,params,types)" />
       </blacklist>
     </blacklists>
   </component>
