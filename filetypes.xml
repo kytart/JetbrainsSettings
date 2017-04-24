@@ -13,7 +13,6 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <removed_mapping ext="svg" type="XML" />
       <mapping pattern="Book" type="YAML" />
       <mapping pattern="ProdConfig" type="YAML" />
