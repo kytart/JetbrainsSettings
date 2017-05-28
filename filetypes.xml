@@ -14,6 +14,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
+      <mapping ext="launch" type="XML" />
       <removed_mapping ext="svg" type="XML" />
       <mapping pattern="Book" type="YAML" />
       <mapping pattern="ProdConfig" type="YAML" />
