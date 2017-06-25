@@ -34,8 +34,16 @@
           <option name="url" value="git@bitbucket.org:teambedabox/bedabox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kytart/unioncollege-csc325-lab5-tf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kytart/unioncollege-csc325-lab5-bumper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sites" />
+    <option name="cloneParentDir" value="$USER_HOME$/Disk Google/External HDD Backup/Union College/Intro to Robotics/lab 5" />
   </component>
 </application>
