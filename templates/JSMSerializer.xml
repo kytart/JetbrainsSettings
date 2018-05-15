@@ -1,0 +1,7 @@
+<templateSet group="JSMSerializer">
+  <template name="serializer" value="use JMS\Serializer\Annotation as Serializer;" description="Import Serializer to alias" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

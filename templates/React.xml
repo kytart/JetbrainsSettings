@@ -1,0 +1,72 @@
+<templateSet group="React">
+  <template name="rptbool" value="React.PropTypes.bool" description="Inserts prop type boolean" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptstr" value="React.PropTypes.string" description="Inserts prop type string" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptobj" value="React.PropTypes.object" description="Inserts prop type object" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptnum" value="React.PropTypes.number" description="Inserts prop type number" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptfunc" value="React.PropTypes.func" description="Inserts prop type function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptany" value="React.PropTypes.any" description="Inserts prop type any" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptanyr" value="React.PropTypes.any.isRequired" description="Inserts required prop type any" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptfuncr" value="React.PropTypes.func.isRequired" description="Inserts required prop type function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptnumr" value="React.PropTypes.number.isRequired" description="Inserts required prop type number" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptobjr" value="React.PropTypes.object.isRequired" description="Inserts required prop type object" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptstrr" value="React.PropTypes.string.isRequired" description="Inserts required prop type string" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptboolr" value="React.PropTypes.bool.isRequired" description="Inserts required prop type boolean" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptshape" value="React.PropTypes.shape({$END$})" description="Inserts prop type shape" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rptshaper" value="React.PropTypes.shape({$END$}).isRequired" description="Inserts required prop type shape" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
