@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="2015-05-25.sql" type="PLAIN_TEXT" />
+      <mapping pattern="homepageForm" type="PLAIN_TEXT" />
+      <mapping pattern=".babelrc" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="objednat" type="PLAIN_TEXT" />
+      <mapping pattern="OrderDatetimeModelTest.yml" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="Book" type="YAML" />
+      <mapping pattern="ProdConfig" type="YAML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="phpt" type="PHP" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Posts" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
