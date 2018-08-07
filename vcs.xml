@@ -66,8 +66,12 @@
           <option name="url" value="https://gitlab.freedesktop.org/xorg/xserver" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:signageos/rpi-overlay-renderer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/ClionProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/ClionProjects/signageos" />
   </component>
 </application>
