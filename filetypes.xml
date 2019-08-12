@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="APKBUILD" type="PLAIN_TEXT" />
       <mapping pattern="disable_schedule" type="PLAIN_TEXT" />
       <mapping pattern="set_schedule" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
