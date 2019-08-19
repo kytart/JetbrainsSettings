@@ -94,8 +94,12 @@
           <option name="url" value="git@gitlab.com:signageos/platform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:xbmc/xbmc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\micha\Projects\signageos" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development" />
   </component>
 </application>
