@@ -122,9 +122,13 @@
           <option name="url" value="git@gitlab.com:signageos/wpewebkit-buildroot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:qdotme/buildroot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Development/signageos" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
