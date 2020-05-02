@@ -12,8 +12,8 @@
       <mapping pattern="homepageForm" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping pattern="extended_bootstrap_3_horizontal_layout" type="Twig" />
       <mapping pattern="Posts" type="Twig" />
       <mapping ext="launch" type="XML" />
@@ -21,16 +21,6 @@
       <mapping pattern="Book" type="YAML" />
       <removed_mapping ext="svg" type="XML" />
       <removed_mapping ext="phpt" type="PHPT" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
