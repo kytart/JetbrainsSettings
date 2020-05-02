@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="phpt" type="PHP" />
+      <removed_mapping ext="phpt" type="PHPT" />
       <mapping pattern="OrderDatetimeModelTest.yml" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -12,13 +14,13 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
-      <removed_mapping ext="svg" type="SVG" />
       <mapping pattern="extended_bootstrap_3_horizontal_layout" type="Twig" />
       <mapping pattern="Posts" type="Twig" />
-      <mapping ext="svg" type="XML" />
       <mapping ext="launch" type="XML" />
       <mapping pattern="ProdConfig" type="YAML" />
       <mapping pattern="Book" type="YAML" />
+      <removed_mapping ext="svg" type="XML" />
+      <removed_mapping ext="phpt" type="PHPT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
