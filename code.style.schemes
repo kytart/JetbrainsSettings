@@ -1,24 +1,9 @@
 <application>
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
-      <value>
+      <value version="173">
         <option name="HTML_ATTRIBUTE_WRAP" value="0" />
         <option name="HTML_KEEP_BLANK_LINES" value="1" />
-        <JSON>
-          <option name="SPACE_BEFORE_COLON" value="true" />
-        </JSON>
-        <PHPCodeStyleSettings>
-          <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-          <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
-          <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
-          <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
-          <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
-          <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
-          <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
-          <option name="LOWER_CASE_NULL_CONST" value="true" />
-          <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
-          <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
-        </PHPCodeStyleSettings>
         <DBN-PSQL>
           <case-options enabled="false">
             <option name="KEYWORD_CASE" value="lower" />
@@ -43,6 +28,21 @@
             <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
           </formatting-settings>
         </DBN-SQL>
+        <JSON>
+          <option name="SPACE_BEFORE_COLON" value="true" />
+        </JSON>
+        <PHPCodeStyleSettings>
+          <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+          <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+          <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+          <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+          <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+          <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+          <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+          <option name="LOWER_CASE_NULL_CONST" value="true" />
+          <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+          <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+        </PHPCodeStyleSettings>
         <XML>
           <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
         </XML>
