@@ -8,8 +8,8 @@
       <mapping pattern="objednat" type="PLAIN_TEXT" />
       <mapping pattern="homepageForm" type="PLAIN_TEXT" />
       <mapping pattern="OrderDatetimeModelTest.yml" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
