@@ -17,7 +17,7 @@
     <mask>*.cmake</mask>
     <mask>*raspberry*</mask>
     <mask>*.mk</mask>
-    <mask>*.c</mask>
     <mask>*.h</mask>
+    <mask>*.c</mask>
   </component>
 </application>
