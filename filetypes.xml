@@ -2,20 +2,20 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="pde" type="ObjectiveC" />
-      <mapping pattern="OrderDatetimeModelTest.yml" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="2015-05-25.sql" type="PLAIN_TEXT" />
       <mapping pattern="objednat" type="PLAIN_TEXT" />
       <mapping pattern="homepageForm" type="PLAIN_TEXT" />
+      <mapping pattern="OrderDatetimeModelTest.yml" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="launch" type="XML" />
       <mapping pattern="Book" type="YAML" />
       <mapping pattern="ProdConfig" type="YAML" />
+      <mapping ext="pde" type="ObjectiveC" />
       <mapping pattern="Posts" type="Twig" />
       <mapping pattern="extended_bootstrap_3_horizontal_layout" type="Twig" />
     </extensionMap>
