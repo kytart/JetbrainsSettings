@@ -202,9 +202,13 @@
           <option name="url" value="git@github.com:GNOME/libsoup.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:signageos/mkinitfs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Development" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development/signageos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
